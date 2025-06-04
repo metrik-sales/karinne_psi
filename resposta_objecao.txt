@@ -1,0 +1,31 @@
+{
+  "sem_tempo": "Sem problemas! Podemos retomar quando for melhor pra você. Posso te lembrar daqui alguns dias?",
+  
+  "nao_sei_se_preciso": "Essa dúvida é comum. A primeira sessão é justamente pra te ajudar a entender se esse caminho faz sentido pra você.",
+  
+  "falar_com_parceiro": "Se a decisão dependesse apenas de você, fecharia agora? Posso te ajudar com algo antes de você conversar com ele(a)?",
+  
+  "parceiro_nao_aceita": "Tudo bem. É possível começar o processo individualmente. Muitas mudanças acontecem quando um dos dois dá o primeiro passo — e, em 90% dos casos, o outro acaba se envolvendo depois.",
+  
+  "mais_barato": "É verdade, há opções mais baratas. Mas na Reconecte, priorizamos qualidade, profundidade e resultado. Casais que passam por aqui costumam dizer: vale a pena cada centavo.",
+  
+  "esta_caro": "Quando você diz que está caro, está comparando com qual tipo de atendimento? Posso te explicar o que está incluso no nosso processo pra ver se faz sentido pra você.",
+  
+  "so_preco": "Entendo! Mas pra te passar um valor justo, preciso saber: o que é mais importante pra você nesse momento? Preço, qualidade ou resultado?",
+  
+  "vou_pensar": [
+    "Compreendo. E sobre qual aspecto você sente mais dúvida: valor, formato ou benefício?",
+    "Se me permite: o que faltou exatamente pra você conseguir tomar a decisão agora?",
+    "Quero garantir que você se sinta segura em sua escolha. Se tiver algo que eu possa esclarecer, é só me chamar."
+  ],
+  
+  "cartao_virar": "Tudo certo! Posso agendar sua sessão agora e o pagamento ser feito após a virada da fatura. Te ajuda assim?",
+  
+  "so_pesquisando": "Sem problema! O que tem sido mais importante pra você nessa busca: o preço, a confiança ou os resultados?",
+  
+  "sem_dinheiro": "Entendo. Enquanto isso, se quiser acompanhar nossos conteúdos gratuitos, deixo aqui nosso Instagram: https://instagram.com/psi.karinnebruno",
+  
+  "presencial": "Entendo. Mas a Reconecte já atendeu mais de 800 casais, inclusive no exterior, com excelentes resultados — tudo online. Que tal experimentar uma sessão de orientação e sentir como funciona?",
+  
+  "desconto_cfp": "A tabela mínima do CRP para sessão é de R$ 275,09. E o valor que oferecemos já está ajustado para garantir mais acesso sem perder qualidade. A Reconecte é uma clínica especializada exclusivamente em relacionamentos, com resultados comprovados e atendimento personalizado."
+}
