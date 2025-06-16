@@ -7,5 +7,7 @@
   
   "convenio": "Não atendemos por convênios. O atendimento é particular para garantir personalização, profundidade e liberdade terapêutica. Muitos dos nossos pacientes, que antes só usavam convênio, perceberam que o atendimento particular entrega mais agilidade, atenção e resultado.",
   
-  "cancelamento": "Cancelamento com 24h de antecedência para reagendamento sem custo."
+  "cancelamento": "Cancelamento com 24h de antecedência para reagendamento sem custo.",
+
+  "reembolso": "Emitimos nota para reembolso❣️"
 }
