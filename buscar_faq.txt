@@ -9,5 +9,10 @@
   
   "cancelamento": "Cancelamento com 24h de antecedência para reagendamento sem custo.",
 
-  "reembolso": "Emitimos nota para reembolso❣️"
+  "reembolso": "Emitimos nota para reembolso❣️",
+
+  "pagamento": "Pagamento antecipado. Após a escolha do horário, é preciso fazer o pagamento para garantir a vaga. Cartão de crédito ou Pix. Parcelamento disponível",
+
+  "cancelamento": "Você pode cancelar ou remarcar sem perder o valor pago, desde que avise com pelo menos 24 horas de antecedência."
+
 }
