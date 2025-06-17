@@ -3,8 +3,6 @@
   
   "modalidade": "Todos os atendimentos são 100% online, realizados pela Dra. Karinne Bruno A. (conforme disponibilidade) ou por psicólogas da equipe Reconecte.",
   
-  "preco_sessao": "Sessão de orientação com a Dra. Karinne: R$ 280.",
-  
   "convenio": "Não atendemos por convênios. O atendimento é particular para garantir personalização, profundidade e liberdade terapêutica. Muitos dos nossos pacientes, que antes só usavam convênio, perceberam que o atendimento particular entrega mais agilidade, atenção e resultado.",
   
   "cancelamento": "Cancelamento com 24h de antecedência para reagendamento sem custo.",
